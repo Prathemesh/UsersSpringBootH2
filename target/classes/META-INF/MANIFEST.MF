@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: abhisheknaik
+Build-Jdk: 9.0.1
+Implementation-Title: spring-boot-microservice-todo-service
+Implementation-Version: 6.0.0-SNAPSHOT
+Implementation-Vendor-Id: me.abhishek.springboot.microservice.example.
+ todo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-microservice-todo-service
+Created-By: Maven Integration for Eclipse
+
